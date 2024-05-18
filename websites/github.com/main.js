@@ -18,8 +18,7 @@
       return;
     }
 
-    const els = document.querySelectorAll(treeItemsSelector);
-    els.forEach(el => {
+    document.querySelectorAll(treeItemsSelector).forEach(el => {
       const path = el.getAttribute('id')?.replace(/-item$/, '');
       const itemToReplace = el.querySelector(subItemsSelector);
 
