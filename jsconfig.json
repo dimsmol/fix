@@ -1,0 +1,10 @@
+// https://code.visualstudio.com/docs/languages/jsconfig
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "target": "ESNext"
+  },
+  "exclude": [ ],
+  "checkJs": true,
+  "experimentalDecorators": true
+}
