@@ -1,3 +1,8 @@
 .unlogged-bottom-line {
   display: none;
 }
+
+/* block all */
+* {
+  display: none;
+}
