@@ -29,7 +29,6 @@
     },
     {
       "matches": [ "https://www.youtube.com/*" ],
-      "css": [ "websites/youtube.com/main.css" ],
       "js": [ "websites/youtube.com/main.js" ]
     }
   ],
