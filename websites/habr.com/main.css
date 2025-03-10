@@ -1,3 +1,39 @@
-.tm-adfox-banner__container {
+.tm-adfox-banner {
+  display: none;
+}
+
+section.tm-block:has(.tm-companies-rating) {
+  display: none;
+}
+
+section.tm-block:has(.tm-vacancies-block__item) {
+  display: none;
+}
+
+section.tm-block:has(.swiper-container-pointer-events) {
+  display: none;
+}
+
+.tm-layout-sidebar__ads {
+  display: none;
+}
+
+.tm-layout-sidebar__banner {
+  display: none;
+}
+
+.banner-wrapper {
+  display: none;
+}
+
+.fixed-banner-wrapper {
+  display: none;
+}
+
+.tm-company-card__branding {
+  display: none;
+}
+
+.tm-stories-block {
   display: none;
 }
