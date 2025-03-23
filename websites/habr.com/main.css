@@ -1,3 +1,11 @@
+/* scroll to top */
+
+.tm-scroll-top {
+  display: none !important;
+}
+
+/* ads */
+
 .tm-adfox-banner {
   display: none;
 }
